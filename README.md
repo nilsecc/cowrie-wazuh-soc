@@ -24,6 +24,7 @@ Attackers scanning the internet for open SSH ports connect to the honeypot, beli
 
 ## Repository Structure
 
+.
 ├── docs/       # Step-by-step deployment and configuration guides
 ├── images/     # Images needed for the README.md
 ├── report/     # Detailed investigation of captured attack patterns (in progress)
