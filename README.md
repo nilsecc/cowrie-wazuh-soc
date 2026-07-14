@@ -24,11 +24,13 @@ Attackers scanning the internet for open SSH ports connect to the honeypot, beli
 
 ## Repository Structure
 
+```text
 .
-├── docs/       # Step-by-step deployment and configuration guides
-├── images/     # Images needed for the README.md
-├── report/     # Detailed investigation of captured attack patterns (in progress)
-└── scripts/    # Python automation scripts (AbuseIPDB, VirusTotal integration)
+├── docs/             # Step-by-step deployment and configuration guides
+├── images/           # Images for documentation and README
+├── report/           # Detailed investigation of captured attack patterns
+└── scripts/          # Python automation scripts (AbuseIPDB, VirusTotal integration)
+```
 
 
 ## Tech Stack
